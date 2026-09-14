@@ -57,7 +57,7 @@ Também foi utilizado o `items-center` para deixar os elementos alinhados vertic
 
 ### Print
 
-![Ícone com texto](./prints/questao1.png)
+![Ícone com texto](./Questao1.jpg)
 
 ---
 
