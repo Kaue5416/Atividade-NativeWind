@@ -57,7 +57,7 @@ Também foi utilizado o `items-center` para deixar os elementos alinhados vertic
 
 ### Print
 
-![Ícone com texto](./Questao1.jpg)
+![Ícone com texto](./Questão1.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ O `justify-between` foi utilizado para deixar o ícone de um lado e o texto "Ver
 
 ### Print
 
-![Linha de ações](./prints/questao2.png)
+![Linha de ações](./Questão2.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ Também é possível clicar nos chips e selecionar mais de um interesse.
 
 ### Print
 
-![Lista de chips](./prints/questao3.png)
+![Lista de chips](./Questão3.jpg)
 
 ---
 
@@ -95,11 +95,11 @@ As imagens podem ser clicadas. Quando uma imagem é selecionada, ela aparece em 
 
 ### Print da grade
 
-![Grade de publicações](./prints/questao4.png)
+![Grade de publicações](./Questão4.jpg)
 
 ### Print da publicação ampliada
 
-![Publicação ampliada](./prints/publicacao.png)
+![Publicação ampliada](./Questão4-2.jpg)
 
 ---
 
@@ -113,7 +113,11 @@ Depois de clicar, o botão muda para "Seguindo".
 
 ### Print
 
-![Botão de seguir](./prints/questao5.png)
+![Botão de seguir](./Questão5.jpg)
+
+### Print de Seguindo
+
+![Seguindo](./Questão5-2.jpg)
 
 ---
 
@@ -135,7 +139,11 @@ A tela possui:
 
 ### Print da tela
 
-![Perfil](./prints/perfil.png)
+![Perfil](./Perfil.jpg)
+
+### Print da tela seguindo
+
+![Perfil Seguindo](./Perfil-2.jpg)
 
 ---
 
