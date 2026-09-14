@@ -170,5 +170,3 @@ Durante o desenvolvimento foram utilizados:
 # Autor
 
 Kauê Marinho
-
-Projeto desenvolvido para fins acadêmicos.
