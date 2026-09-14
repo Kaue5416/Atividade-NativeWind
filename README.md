@@ -129,7 +129,7 @@ A tela possui:
 
 * Foto de perfil
 * Nome do usuário
-* Nome de usuário
+* Arroba de usuário
 * Número de publicações
 * Número de seguidores
 * Número de pessoas seguindo
