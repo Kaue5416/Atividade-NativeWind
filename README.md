@@ -141,9 +141,7 @@ A tela possui:
 
 ![Perfil](./Perfil.jpg)
 
-### Print da tela seguindo
-
-![Perfil Seguindo](./Perfil-2.jpg)
+![Perfil-2](./Perfil-2.jpg)
 
 ---
 
